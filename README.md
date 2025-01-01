@@ -6,7 +6,7 @@ This Smart Controller contains a SD-Card reader, a rotary encoder and a LCD1602 
 Forked from project Link : [LEKN G-sender](https://github.com/LEKN-TECH/G-Sender/tree/master)
 
 # LCD Menu Tree  
-![image](https://github.com/TharaBhaiDoraemon/G-Sender-with-Servo/blob/main/images/LCD_Tree_Menu.png)  
+![image](https://github.com/TharaBhaiDoraemon/G-Sender-with-Servo/blob/main/images/LCD_Tree_Menu.jpg)  
 
 # Wiring
 Communication with control board via serial port,need to connect TX,RX,VCC(5V),GND pin.  
